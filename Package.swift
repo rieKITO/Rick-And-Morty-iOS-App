@@ -8,13 +8,13 @@ import PackageDescription
 import AppleProductTypes
 
 let package = Package(
-    name: "Rick⠀&⠀Morty",
+    name: "Рик⠀и⠀Морти",
     platforms: [
         .iOS("16.0")
     ],
     products: [
         .iOSApplication(
-            name: "Rick⠀&⠀Morty",
+            name: "Рик⠀и⠀Морти",
             targets: ["AppModule"],
             bundleIdentifier: "kito.SurfRickAndMorty",
             teamIdentifier: "R43Z945CA2",
